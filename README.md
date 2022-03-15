@@ -1,2 +1,5 @@
-# rust_web_server
-Web server using RUST
+# RUST WEB SERVER
+
+Multithreaded Webserver build using RUST 🦀
+
+Tutorial from [Let's Get Rusty](https://youtu.be/qjx8vutWaUQ)
